@@ -1,0 +1,8 @@
+ /* CSS CODES*/
+ body{background-color: orchid;font-family: "新細明體"}
+ .all{background-color:palegreen}
+ #tittttle{background-color:paleturquoise}
+.title {font-size:24px;font-weight:bold}
+.content{width:500px;margin-top:10px;border:1px solid blue;padding:10px;}
+.keyword{color:red}
+ .underline{text-decoration: underline};
